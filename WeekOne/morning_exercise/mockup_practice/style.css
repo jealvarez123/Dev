@@ -1,0 +1,25 @@
+
+body {
+  background-color: #138900
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  font-size: 30px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.links {
+  padding: 0px 300px;
+}
+
+.image1 {
+  padding: 30px 100px;
+}
